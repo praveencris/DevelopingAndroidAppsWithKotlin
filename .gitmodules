@@ -4,3 +4,6 @@
 [submodule "AboutMe"]
 	path = AboutMe
 	url = https://github.com/sabkayar/AboutMe.git
+[submodule "ColorMyViews"]
+	path = ColorMyViews
+	url = https://github.com/sabkayar/ColorMyViews.git
