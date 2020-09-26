@@ -1,3 +1,6 @@
 [submodule "DiceRoller"]
 	path = DiceRoller
 	url = https://github.com/sabkayar/DiceRoller.git
+[submodule "AboutMe"]
+	path = AboutMe
+	url = https://github.com/sabkayar/AboutMe.git
