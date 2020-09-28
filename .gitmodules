@@ -7,3 +7,6 @@
 [submodule "ColorMyViews"]
 	path = ColorMyViews
 	url = https://github.com/sabkayar/ColorMyViews.git
+[submodule "Trivia"]
+	path = Trivia
+	url = https://github.com/sabkayar/AndroidTrivia.git
