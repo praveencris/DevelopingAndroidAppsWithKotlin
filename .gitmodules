@@ -10,3 +10,6 @@
 [submodule "Trivia"]
 	path = Trivia
 	url = https://github.com/sabkayar/AndroidTrivia.git
+[submodule "andfun-kotlin-dessert-pusher"]
+	path = andfun-kotlin-dessert-pusher
+	url = https://github.com/sabkayar/andfun-kotlin-desset-pusher.git
