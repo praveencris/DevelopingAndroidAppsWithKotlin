@@ -13,3 +13,9 @@
 [submodule "andfun-kotlin-dessert-pusher"]
 	path = andfun-kotlin-dessert-pusher
 	url = https://github.com/sabkayar/andfun-kotlin-desset-pusher.git
+[submodule "andfun-kotlin-guess-it"]
+	path = andfun-kotlin-guess-it
+	url = https://github.com/sabkayar/andfun-kotlin-guess-it.git
+[submodule "andfun-kotlin-sleep-tracker"]
+	path = andfun-kotlin-sleep-tracker
+	url = https://github.com/sabkayar/andfun-kotlin-sleep-tracker.git
