@@ -19,3 +19,9 @@
 [submodule "andfun-kotlin-sleep-tracker"]
 	path = andfun-kotlin-sleep-tracker
 	url = https://github.com/sabkayar/andfun-kotlin-sleep-tracker.git
+[submodule "kotlin-notepad"]
+	path = kotlin-notepad
+	url = https://github.com/sabkayar/kotlin-notepad.git
+[submodule "CapturedPhotoToImageView"]
+	path = CapturedPhotoToImageView
+	url = https://github.com/sabkayar/CapturePhotoToImageView.git
